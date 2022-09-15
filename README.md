@@ -1,8 +1,4 @@
-**# PVPC-Stat**
- ____  _  _  ____   ___    ____  ____  __  ____ 	
-(  _ \/ )( \(  _ \ / __)  / ___)(_  _)/ _\(_  _)
- ) __/\ \/ / ) __/( (__   \___ \  )( /    \ )(  
-(__)   \__/ (__)   \___)  (____/ (__)\_/\_/(__) 
+### PVPC-Stat
 
 
 **Description:**
@@ -24,10 +20,10 @@
   
   - jq JSON processor:
 
-><sudo apt-get update>
-><sudo apt-get install jq>
+    sudo apt-get update>
+    sudo apt-get install jq
   
   - curl command tool:
 
-><sudo apt-get update>
-><sudo apt-get install curl>
+    sudo apt-get update>
+    sudo apt-get install curl>
