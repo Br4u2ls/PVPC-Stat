@@ -14,7 +14,7 @@
 
 **Available options:**  
   
-![i2](https://user-images.githubusercontent.com/112086086/190514353-4818ea49-0170-4692-ae54-bdb8f2b25849.png)
+![i2](https://user-images.githubusercontent.com/112086086/190520983-dc324570-91fa-4a31-b329-5d0ca1db45a8.png)
 
 **Installation of required dependencies:**
   
