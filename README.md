@@ -24,10 +24,10 @@
   
   - jq JSON processor:
 
-<sudo apt-get update>
-<sudo apt-get install jq>
+><sudo apt-get update>
+><sudo apt-get install jq>
   
   - curl command tool:
 
-<sudo apt-get update>
-<sudo apt-get install curl>
+><sudo apt-get update>
+><sudo apt-get install curl>
