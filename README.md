@@ -29,3 +29,6 @@
     >sudo apt-get update
     
     >sudo apt-get install curl
+
+**Source of data:**
+  - Red Eléctrica de España.
