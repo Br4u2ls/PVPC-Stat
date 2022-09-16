@@ -10,7 +10,7 @@
 
 **Overview:**
 
-![i1](https://user-images.githubusercontent.com/112086086/190517342-b913bc1e-e89c-44cd-b7c0-a8d3098c1910.png)
+![i1](https://user-images.githubusercontent.com/112086086/190706643-3697f3af-508e-4c4a-87cc-fef0309168d3.png)
 
 **Available options:**  
   
